@@ -1,0 +1,2 @@
+Random text in the new folder
+.gitkeep
