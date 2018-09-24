@@ -1,2 +1,3 @@
 Random text in the new folder
 .gitkeep
+This folder is where we place our code for the PR Code Review assignment
